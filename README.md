@@ -6,4 +6,4 @@ work in progress haha lmao
     </th>
   </tr>
 </table
-${\color{#FEC5C9}\textsf{yeah)}$
+${\textsf{\color{#FFCCB3}heaven soft she comf }}$
