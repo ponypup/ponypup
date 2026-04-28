@@ -6,4 +6,4 @@ work in progress haha lmao
     </th>
   </tr>
 </table
-${\textsf{\color{#FFCCB3}heaven soft she comf }}$
+  ${\white{#fffff}\it doesnt workf{TXT}}$
