@@ -1,11 +1,3 @@
-${\color{#90D5FF}\textsf{OH MY GOD MY COLOR TEXT FINALLY WORKS DUDE}}$
+<img width="1754" height="1240" alt="1000006076" src="https://github.com/user-attachments/assets/1a14cd55-e939-4a06-a307-e7ffd9e81113" />   
 
-<table>
-  <tr>
-    <th>
-         i love slopmaxxing
-    </th>
-  </tr>
-</table
-  <img width="200" height="200" alt="1000004561" src="https://github.com/user-attachments/assets/9bb88a1f-f2fe-40de-94a3-e2a72e989fb0" />
-  
+</p> <img width="281" height="67" alt="1000006080" src="https://github.com/user-attachments/assets/87505061-d67b-42d5-b9bb-1a8aca2dc9f5" />
